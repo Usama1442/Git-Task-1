@@ -25,3 +25,10 @@
 * Revert the last commit on `master`
 * Verify that the changes from the merged branch are undone
 * Confirm the history reflects the revert action
+  
+   ##Task 4 Summary
+  Create File: Use echo "print('Hello!')" > hello.py to
+  create your Python script.Stage & Commit:
+  Run git add hello.py followed by git commit -m
+  git remote add origin https://github.com and upload your code with git push -u origin master.
+  
