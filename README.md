@@ -30,5 +30,5 @@
   Create File: Use echo "print('Hello!')" > hello.py to
   create your Python script.Stage & Commit:
   Run git add hello.py followed by git commit -m
-  git remote add origin https://github.com and upload your code with git push -u origin master.
+   git push -u origin master.
   
